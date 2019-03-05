@@ -1,0 +1,1 @@
+This is a proposed repository structure for computational science research, based off of [Project TIER](https://www.projecttier.org/) specifications and work by Thomas Leeper. The GitHub repository mirrors the proposed structure, and an explanation of this structure can be found [here](RepoProposal/documents/RepoProposal.md).
