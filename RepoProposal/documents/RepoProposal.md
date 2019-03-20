@@ -52,7 +52,7 @@ The documents folder would contain the final analysis, or the main deliverable(s
 
 For standard social science projects this folder would contain the final draft of the paper, as well as a visualizations sub folder that would contain image files.
 
-For a project more focused on building a tool, such as an r pacakge, the documents folder would contain a file that shows examples of the code being used.
+For a project more focused on building a tool, such as an r package, the documents folder would contain a file that shows examples of the code being used.
 
 Miscellaneous
 -------------
